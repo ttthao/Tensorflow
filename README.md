@@ -9,4 +9,4 @@ These are my notes and implementation of Tensorflow's introductory material.
 Finished the getting started and MNIST beginner tutorial.
 It really helped doing Andrew Ng's course first because the concepts introduced
 are they same but explained slightly different. It made understanding the
-under-the-hood mechanisms of each Tensorflow function.
+under-the-hood mechanisms of each Tensorflow function much easier.
